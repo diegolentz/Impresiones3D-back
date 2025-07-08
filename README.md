@@ -33,4 +33,5 @@ El objetivo principal es proporcionar una solución robusta y escalable que perm
 - **Lenguaje:** java
 - **Framework:** React
 - **Autenticación:** JWT
+- **Base de datis:** MySql
 
